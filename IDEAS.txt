@@ -1,0 +1,3 @@
+https://github.com/trackmania-rl/tmrl?tab=readme-ov-file#lidar-environment
+
+Usar Real-Time Gym (rtgym), a simple python framework that enables efficient real-time implementations of Delayed Markov Decision Processes in real-world applications.
